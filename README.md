@@ -11,7 +11,7 @@
     
 - Computer vision 
 
-- General software development
+- General full-stack software development
   
 </p>
 </details>
