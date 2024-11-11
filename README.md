@@ -6,10 +6,10 @@
 <details>
   <summary><h2>Interests</h2></summary><p>
     
-- Scientific computing & applied mathematics
+- Scientific computing, applied mathematics, cellular automata and Lenia ("mathematical lifeforms")
     
-- AI/ML
-
+- Programming languages design and development
+  
 - General full-stack software development
   
 </p>
