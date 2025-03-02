@@ -3,8 +3,16 @@
     <img width="50" height="50" src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" />
 </p>
 
-Currently, I'm a third-year undergrad mathematics and computer science student at the University of Auckland. I am a TA for CS130 (data structures & algorithms) and various introductory maths courses. I was also an AI/ML summer research scholar in the School of Computer Science.
+Currently, I'm a third-year undergrad mathematics and computer science student at the University of Auckland. 
 
-I'm interested in AI reasoning, memory, and architectures as implemented in the [Titans paper](https://arxiv.org/pdf/2501.00663). I'm also broadly interested in Lenia -- so-called "mathematical lifeforms", computational neuroscience, and general software development (particularly open-source!)
+I'm interested in AI reasoning, memory, and architecture. I'm also broadly interested in Lenia -- so-called "mathematical lifeforms" that arise from cellular automata, and general software development (particularly open-source!) 
 
-Email: mvu023@aucklanduni.ac.nz | myanvoos@gmail.com
+Email: myanvoos@gmail.com | mvu023@aucklanduni.ac.nz
+<pre>
+                  |\-/      _______                             . '  *   .  . '
+                 ={ ``; |==|_______D                              .  * * -+-  
+              )   /  ('        /|\                             .    * .    '  -+- 
+              (  /   |        / | \                                * -+-  ' .  . 
+               \(_)_]]      /  |  \                            *   *  .   .
+                                                                 '   *
+</pre>
