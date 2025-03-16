@@ -10,7 +10,7 @@ I'm interested in AI reasoning, memory, and architecture. I'm also broadly inter
 Email: myanvoos@gmail.com | mvu023@aucklanduni.ac.nz
 <pre>
                   |\-/      _______                             . '  *   .  . '
-                 ={ ``; |==|_______D                              .  * * -+-  
+                 ={ 0 0; |==|_______D                              .  * * -+-  
               )   /  ('        /|\                             .    * .    '  -+- 
               (  /   |        / | \                                * -+-  ' .  . 
                \(_)_]]      /  |  \                            *   *  .   .
