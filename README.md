@@ -3,7 +3,7 @@
     <img width="50" height="50" src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" />
 </p>
 
-Email: myanvoos@gmail.com
+Email: myanvoos@gmail.com | mvu023@aucklanduni.ac.nz
 <pre>
                   |\-/|      _______                             . '  *   .  . '
                  =( 0 0; |==|_______D                              .  * * -+-  
